@@ -1,4 +1,4 @@
-rakutsykli-loeng
+Rakutsykliloeng
 ================
 
-molekulaarse rakubioloogia kursuse rakutsükli loeng
+Molekulaarse rakubioloogia kursuse rakutsükli loeng
